@@ -1,0 +1,47 @@
+.container {
+  align-items: center;
+  margin: auto;
+  justify-content: center;
+  display: block;
+  max-width: 1120px;
+}
+
+section {
+  display: block;
+  width: 80%;
+  border: solid 1px;
+  margin-top: 20px;
+  border-radius: .3rem;
+  gap: 20px;
+}
+
+.title-section {
+  background-color: #DCDCDC;
+  width: 99%;
+  height: 40px;
+  padding: 2px;
+  padding-left: 8px;
+  padding-right: 0;
+  display: flex;
+  align-items: center;
+  border-width: 1px;
+  border-radius: .3rem;
+  font-weight: 400;
+  font-size: larger;
+}
+
+table {
+  border: solid 1px;
+  text-align: left;
+  width: 80%;
+  margin: 15px auto 15px auto;
+}
+
+td {
+  text-align: center;
+}
+
+th {
+  border-right: solid 1px;
+  background-color: #DCDCDC;
+}
